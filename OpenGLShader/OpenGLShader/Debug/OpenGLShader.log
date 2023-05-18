@@ -1,0 +1,8 @@
+﻿  OpenGLShader.cpp
+D:\CcTECH\CAD\OpenGLShader\OpenGLShader\src\OpenGLShader.cpp(96,16): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+  ShaderProgram.cpp
+  Generating Code...
+glew32s.lib(glew.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'glew32s.lib(glew.obj)' or at 'D:\CcTECH\CAD\OpenGLShader\OpenGLShader\vc120.pdb'; linking object as if no debug info
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  OpenGLShader.vcxproj -> D:\CcTECH\CAD\OpenGLShader\OpenGLShader\OpenGLShader.exe

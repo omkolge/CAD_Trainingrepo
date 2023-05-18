@@ -1,0 +1,3 @@
+D:\CcTECH\CAD\OpenGLShader\OpenGLShader\Debug\OpenGLShader.vcxproj.MdMergeInputs.cache
+D:\CcTECH\CAD\OpenGLShader\OpenGLShader\Debug\OpenGLShader.vcxproj.cppwinrt_plat.cache
+D:\CcTECH\CAD\OpenGLShader\OpenGLShader\Debug\OpenGLShader.vcxproj.cppwinrt_comp.cache
